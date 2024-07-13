@@ -7,6 +7,7 @@ readme = "README.md"
 license = 'MIT'
 homepage = 'https://github.com/gupingan/adorner'
 documentation = 'https://www.cnblogs.com/gupingan/p/18299851'
+repository = 'https://github.com/gupingan/adorner'
 
 [tool.poetry.dependencies]
 python = ">=3.7"
@@ -19,3 +20,4 @@ priority = "primary"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
