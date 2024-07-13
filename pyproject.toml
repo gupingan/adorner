@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "adorner"
+version = "1.0.0"
+description = "This is a modern lightweight Python decorator utility module."
+authors = ["gupingan <g332920287@foxmail.com>"]
+readme = "README.md"
+license = 'MIT'
+homepage = 'https://github.com/gupingan/adorner'
+documentation = 'https://www.cnblogs.com/gupingan/p/18299851'
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+
+[[tool.poetry.source]]
+name = "tencent-pypi"
+url = "http://mirrors.cloud.tencent.com/pypi/simple/"
+priority = "primary"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
