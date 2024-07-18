@@ -2,7 +2,7 @@
 
 `adorner` 是一个现代轻量级 Python 装饰器辅助模块。
 
-本项目采用 MIT 许可证。请查看 [LICENSE](https://github.com/gupingan/adorner/tree/v1.0.0?tab=License-1-ov-file) 文件以了解更多信息。
+本项目采用 MIT 许可证。请查看 [LICENSE](https://github.com/gupingan/adorner?tab=MIT-1-ov-file) 文件以了解更多信息。
 
 ## 特性
 
