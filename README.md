@@ -21,7 +21,7 @@
 
 如果您不想从源代码安装，您可以直接安装发布到 GitHub Releases 页面的打包版本。
 
-首先，下载最新的发布包 `gpa-obscuror-x.x.x.tar.gz` 从 [GitHub Releases](https://github.com/gupingan/adorner/releases) 页面。
+首先，下载最新的发布包 `adorner-x.x.x.tar.gz` 从 [GitHub Releases](https://github.com/gupingan/adorner/releases) 页面。
 
 接着，您可以使用 pip 等包管理工具来安装下载的 `.tar.gz` 文件：
 
